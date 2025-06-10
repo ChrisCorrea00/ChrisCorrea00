@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshcybertest/LABURL)
+  - [Active Directory Home Lab](https://github.com/ChrisCorrea00/ActiveDirectoryLab/blob/main/README.md)
 
 <h2> - Certifications</h2>
 
